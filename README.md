@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HridyanshNarwal888
 - 👀 I’m interested in Maths and Programming
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Programming
+- 💞️ I’m looking to collaborate on Github
+- 📫 You can reach me at hridyansh26narwal@gmail.com
 
 <!---
 HridyanshNarwal888/HridyanshNarwal888 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
